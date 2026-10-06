@@ -1,0 +1,18 @@
+[
+    {
+        "id": "447b2b0ad5088e5b",
+        "full_name": "jov",
+        "username": "jov",
+        "email": "jov@gmail.com",
+        "password_hash": "$2y$10$v8krJFk9i4.P7t1vG.y..etk9nUfnX9D1BKFDQVuy\/jpjEi26Itr.",
+        "created_at": "2026-10-04T18:43:40+02:00"
+    },
+    {
+        "id": "8d6d9400081fca1f",
+        "full_name": "jovarri malgapo",
+        "username": "jov2",
+        "email": "jov2@gmail.com",
+        "password_hash": "$2y$10$LllqfinqtXjwhZgidLlSd.S2SK0RhrhvRWqBg4gikx4.qWhlnKfEG",
+        "created_at": "2026-10-05T13:08:26+02:00"
+    }
+]
